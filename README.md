@@ -101,7 +101,7 @@ I'm a passionate developer who loves creating seamless digital experiences that 
   ### 💡 Fun Fact
   *The best error message is the one that never shows up.*
 
-  ![Snake animation](https://github.com/ysh2006-ai/ysh2006-ai/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/ysh2006-ai/ysh2006-ai/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>
 
