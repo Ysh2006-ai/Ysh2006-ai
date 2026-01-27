@@ -66,7 +66,7 @@ I'm a passionate developer who loves creating seamless digital experiences that 
 
 <div align="center">
   
-  <a href="https://yash-portfolio-nine-alpha.vercel.app/">
+  <a href="https://portfolio-yk28.vercel.app/">
     <img src="https://img.shields.io/badge/🚀_Check_out_my_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 
